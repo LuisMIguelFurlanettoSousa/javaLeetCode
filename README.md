@@ -13,6 +13,8 @@ javaLeetCode/
 │── README.md       # Documentação do repositório
 ```
 
+## 📂 Problemas a Resolver
+
 ### 🔹 **Fácil**
 - [Two Sum](https://leetcode.com/problems/two-sum/) → **1. Two Sum**
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) → **206. Reverse Linked List**
@@ -32,6 +34,13 @@ javaLeetCode/
 - [LFU Cache](https://leetcode.com/problems/lfu-cache/) → **460. LFU Cache**
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) → **10. Regular Expression Matching**
 - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) → **132. Palindrome Partitioning II**
+
+## 🚀 Como Contribuir
+1. Faça um **fork** deste repositório.
+2. Crie uma **branch** para a sua solução (`git checkout -b minha-solucao`).
+3. Adicione o código e teste-o localmente.
+4. Faça um **commit** e envie para o seu fork (`git push origin minha-solucao`).
+5. Abra um **Pull Request** para este repositório.
 
 ## 📚 Como Usar
 
