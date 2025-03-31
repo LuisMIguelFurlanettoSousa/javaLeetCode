@@ -1,4 +1,4 @@
-package Easy;
+package src.Easy;
 
 import java.util.Map;
 import java.util.HashMap;
