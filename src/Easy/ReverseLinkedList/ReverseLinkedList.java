@@ -1,4 +1,4 @@
-package src.Easy;
+package src.Easy.ReverseLinkedList;
 
 class ListNode {
     int val;

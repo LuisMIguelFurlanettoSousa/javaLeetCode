@@ -9,7 +9,6 @@ class Solution {
         for (int right = 0; right < s.length(); right++) {
             char letra = s.charAt(right);
 
-            // Se a letra já estiver no conjunto, removemos caracteres do início até que ela saia
             while (caracteres.contains(letra)) {
                 caracteres.remove(s.charAt(left));
                 left++;
